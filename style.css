@@ -1,0 +1,86 @@
+.container {
+  width: 725px;
+  height: 1685px;
+  margin: auto;
+  background-color: white;
+  border-radius: 15px;
+}
+
+img {
+  width: 655px;
+  align-items: center;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 35px;
+  margin-left: 35px;
+  margin-right: 20px;
+}
+div h1 {
+  font-family: "Times New Roman", Times;
+  margin-left: 35px;
+  color: black;
+}
+
+div p {
+  margin-left: 35px;
+  color: rgba(34, 29, 29, 0.911);
+}
+
+.fill {
+  margin-left: 35px;
+  width: 630px;
+  height: 180px;
+  background-color: rgba(128, 0, 128, 0.055);
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+div h4 {
+  margin-left: 38px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  color: purple;
+}
+
+h2 {
+  margin-left: 35px;
+  color: rgb(126, 60, 24);
+  font-weight: bolder;
+}
+
+ul li {
+  margin-left: 35px;
+  margin-bottom: 15px;
+  color: rgba(34, 29, 29, 0.911);
+}
+
+hr {
+  margin-top: 40px;
+  margin-left: 35px;
+  margin-right: 35px;
+  color: rgb(47, 43, 43);
+}
+
+.side {
+  margin-left: -20px;
+}
+
+.nutri {
+  margin-top: 45px;
+  margin-left: 60px;
+  margin-bottom: 5px;
+  color: rgba(34, 29, 29, 0.911);
+  
+}
+
+.Nutrition {
+  margin-top: 15px;
+  margin-bottom: -15px;
+  color: rgb(47, 43, 43);
+}
+
+.TTT {
+  list-style-type: decimal;
+}
+
